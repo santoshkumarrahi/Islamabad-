@@ -1,0 +1,6 @@
+{
+  "name": "Islamabad Escapes",
+  "description": "Discover the Beauty of the Capital - Premium luxury tourism website and complete CMS admin dashboard for Islamabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
